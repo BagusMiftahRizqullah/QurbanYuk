@@ -17,10 +17,10 @@ export default function Page() {
     return (
      <>
        <Head>
-        <title>Qurban Yuk - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>Berternak Yuk - Free Nextjs & TailwindCSS Landing Page Template</title>
         <meta
           name="description"
-          content="Qurban Yuk is a free landing page template built with next.js & Tailwind CSS"
+          content="Berternak.com is a free landing page template built with next.js & Tailwind CSS"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -29,9 +29,9 @@ export default function Page() {
       <Navbar/>
       <Hero />
       <SectionTitle
-        pretitle="Qurban Yuk"
-        title=" Why should you use Qurban Yuk">
-        Qurban Yuk is a free landing page & marketing website template for startups
+        pretitle="Berternak Yuk"
+        title=" Why should you use Berternak Yuk">
+        Berternak.com is a free landing page & marketing website template for startups
         and indie projects. Its built with Next.js & TailwindCSS. And its
         completely open-source.
       </SectionTitle>
